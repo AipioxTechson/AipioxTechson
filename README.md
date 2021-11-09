@@ -8,4 +8,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AipioxTechson.visitor-badge)
 
-[![Ritvik's github stats](https://github-readme-stats.vercel.app/api?username=AipioxTechson)](https://github.com/anuraghazra/github-readme-stats)
+[![Ritvik's github stats](https://github-readme-stats.vercel.app/api?username=AipioxTechson&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
